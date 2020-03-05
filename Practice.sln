@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RansomNote", "RansomNote\Ra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoStrings", "TwoStrings\TwoStrings.csproj", "{271DB682-96B7-4581-8009-E8FD74A15752}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoadsAndLibraries", "RoadsAndLibraries\RoadsAndLibraries.csproj", "{2420D5D7-74D4-4202-9042-853AD9E5C4E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,6 +97,10 @@ Global
 		{271DB682-96B7-4581-8009-E8FD74A15752}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{271DB682-96B7-4581-8009-E8FD74A15752}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{271DB682-96B7-4581-8009-E8FD74A15752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2420D5D7-74D4-4202-9042-853AD9E5C4E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2420D5D7-74D4-4202-9042-853AD9E5C4E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2420D5D7-74D4-4202-9042-853AD9E5C4E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2420D5D7-74D4-4202-9042-853AD9E5C4E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -112,6 +118,7 @@ Global
 		{FE7C2889-86B5-4B09-B1D1-D01848984E15} = {81E0A197-9BD9-4A9E-8E88-799FE6F3DA96}
 		{094E2D05-BC93-4F4C-830C-6CEC309DF42E} = {81E0A197-9BD9-4A9E-8E88-799FE6F3DA96}
 		{271DB682-96B7-4581-8009-E8FD74A15752} = {81E0A197-9BD9-4A9E-8E88-799FE6F3DA96}
+		{2420D5D7-74D4-4202-9042-853AD9E5C4E8} = {81E0A197-9BD9-4A9E-8E88-799FE6F3DA96}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E868F3E5-4777-4B81-9A4D-48B974653FDE}
